@@ -1,7 +1,7 @@
 # Whittemore Painting
 
 ## Overview
-A static brochure web application developed and deployed for a local residential and commercial painting contractor. The site is designed to provide critical business information, portfolio imaging, and contact routing with maximum uptime and zero maintenance overhead.
+Live at https://whittemorepainting.com A static brochure web application developed and deployed for a local residential and commercial painting contractor (my uncle). The site is designed to provide information, portfolio imaging, and contact routing with maximum uptime and zero maintenance overhead.
 
 ## Architecture & Deployment
 The application is intentionally engineered as a purely static deployment, prioritizing speed, reliability, and security over complex dynamic rendering.
