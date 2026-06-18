@@ -1,3 +1,5 @@
+✨Vibe-Code✨
+
 # Whittemore Painting
 
 ## Overview
